@@ -1,0 +1,7 @@
+# Создайте файл database.ini скопируйте код и вставьте реальные значения
+
+[postgresql]
+host=localhost
+user=postgres
+password=.....    # вставьте свой пароль
+port=5432
